@@ -6,3 +6,4 @@ public String list(Model model)
         model.addAttribute("list",list);
         return "list";
     }
+//==========
